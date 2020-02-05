@@ -962,7 +962,7 @@
     
     Carter_hous_change <- Carter_hous_change[,-c(3,4)]
     
-  ####percent changes calculations####
+  ####COUNTY LEVEL CHANGES FROM 2010 CENSUS TO 2018 ACS####
     
     #total pop
     
